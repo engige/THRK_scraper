@@ -1,3 +1,4 @@
 pandas
 scrapetube
 numpy
+streamlit
