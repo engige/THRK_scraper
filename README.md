@@ -1,5 +1,9 @@
 # Welcome to "The Real House Helps of Kawagware" Episode Link Retrieval Notebook!
 
+### App now available on streamlit
+
+https://karusamuel-thrk-scraper-app-zdi1ne.streamlit.app/
+
 🎬 Lights, Camera, Links! 📺
 
 Get ready to streamline your "Real House Helps of Kawagware" binge-watching experience like never before! In this notebook, we're on a mission to organize and gather all the episode links from the show's YouTube channel, ensuring you can navigate through the series effortlessly.
